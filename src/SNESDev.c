@@ -167,7 +167,6 @@ int main(int argc, char *argv[]) {
 			gpads[0].pin_clock = RPI_V2_GPIO_P1_19;
 			gpads[0].pin_strobe = RPI_V2_GPIO_P1_23;
 			gpads[0].pin_data = RPI_V2_GPIO_P1_05;
-			gpads[0].type = GPAD_TYPE_SNES;
 			gpads[1].pin_clock = RPI_V2_GPIO_P1_19;
 			gpads[1].pin_strobe = RPI_V2_GPIO_P1_23;
 			gpads[1].pin_data = RPI_V2_GPIO_P1_07;		
